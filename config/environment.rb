@@ -1,3 +1,5 @@
+require 'bundler/setup'
+Bundler.require
 require 'sqlite3'
 require 'pry'
 
